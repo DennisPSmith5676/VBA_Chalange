@@ -2,7 +2,7 @@
 
 1. Create a new repository for this project called `VBA-challenge`. Do not add this homework to an existing repository. -Done see GitHub
 
-2. Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
+2. Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.-Done see GitHub
 
 Files needed
 
@@ -25,17 +25,17 @@ Create a script that will loop through all the stocks for one year and output th
 
 5. You should also have conditional formatting that will highlight positive change in green and negative change in red.- Done see Ticker.vba (note this was the hardwst for me)
 
-6. The result should look as follows.
+6. The result should look as follows. - Done ties to 2014
 
 
 BONUS
 
 Your solution will also be able to return the stock with the following
 1. "Greatest % increase"- Done see Ticker.vba
-2. "Greatest % decrease" - Done see Ticker.vba- Done see Ticker.vba
-3. "Greatest total volume” 
+2. "Greatest % decrease" - Done see Ticker.vba
+3. "Greatest total volume” - Done see Ticker.vba
 
-Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.- Done see Ticker.vba- Done see Ticker.vba
+Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.- Done see Ticker.vba
 
 Other Considerations
 
@@ -48,11 +48,11 @@ Submission
 
 To submit please upload the following to Github:
 
-1. A screen shot for each year of your results on the Multi Year Stock Data.
+1. A screen shot for each year of your results on the Multi Year Stock Data.  -done see git hub
 
 2. VBA Scripts as separate files.- Done see Ticker.vba (only 1 file)
 
-3. Ensure you commit regularly to your repository and it contains a README.md file. - Sorry did most of this in VBA will try harder next time
+3. Ensure you commit regularly to your repository and it contains a README.md file. - Done but i am sorry did most of this in VBA will try harder next time.
 
 4. After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>. - Done See Boot Camp Spot
 
