@@ -23,8 +23,8 @@ Sub Ticker():
             ws.Range("L1").Value = "Percent Change"
             ws.Range("M1").Value = "Total Stock Volume"
             
-            'Set Summary table count to 2
-            Sum_Table = 2
+            'Set Summary table count to 1
+            Sum_Table = 1
             
             'Print Opening Price
             Opening_Price = ws.Cells(2, 3).Value
