@@ -59,10 +59,6 @@ To submit please upload the following to Github:
 
 
 
-VBA Challenge Read me
-
-
-
 
 
 
